@@ -1,0 +1,14 @@
+.media {
+    height: 800px;
+    width: 850px;
+}
+
+.media__image {
+    height: 400px;
+    width: 600px;
+    padding: 10px;
+}
+
+.media__video {
+    padding: 10px;
+}
